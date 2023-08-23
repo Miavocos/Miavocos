@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Miavocos/Miavocos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MIA NAIR VOCOS BIANCO :two_hearts:
+### Contacto
+*Correo*: miavocos444@gmail.com
+*Celular:* 3564-645661 
+*Linkedin:* Mia Nair Vocos Bianco
+### Resumen
+Tengo 18 años, vivo en San Francisco, cba y soy estudiante de ProA Técnica, la cual, me otorgará el título de Técnico en Programación. Me graduo de dicho estudio en 2023.
+### Habilidades
+Me considero una persona responsable, paciente y capaz de adaptarme a lugares nuevos o hablar en público. 
+- *Dominio de Paquete Office y herramientas de Google, manejo de diseño web (html, css)*
+- Nivel basico de Ingles y Español Nativo
