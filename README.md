@@ -10,4 +10,11 @@ Tengo 18 años, vivo en San Francisco, cba y soy estudiante de ProA Técnica, la
 ### Habilidades
 Me considero una persona responsable, paciente y capaz de adaptarme a lugares nuevos o hablar en público. 
 - *Dominio de Paquete Office y herramientas de Google, manejo de diseño web (html, css)*
-- Nivel basico de Ingles y Español Nativo
+- Nivel basico de Ingles y Español Nativo.
+### Educación 
+2010 - 2016
+*Escuela primaria Jose B Iturraspe*
+2017 - 2023
+*Escuela secundaria PRoA Técnica, con enfasis en programación*
+2023 Mar - Jun
+*Curso masoterapia - masajes relajantes y descontracturantes*
