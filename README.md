@@ -1,6 +1,6 @@
 # MIA NAIR VOCOS BIANCO :two_hearts:
 ### Contacto
-*Correo*: miavocos444@gmail.com
+*Correo*: miavocos444@gmail.com <br>
 *Celular:* 3564-645661
 *Linkedin:* Mia Nair Vocos Bianco
 ### Resumen
