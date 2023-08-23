@@ -13,8 +13,14 @@ Me considero una persona responsable, paciente y capaz de adaptarme a lugares nu
 - Nivel basico de Ingles y Español Nativo.
 ### Educación 
 2010 - 2016
+
 *Escuela primaria Jose B Iturraspe*
+
 2017 - 2023
+
 *Escuela secundaria PRoA Técnica, con enfasis en programación*
+
 2023 Mar - Jun
+
 *Curso masoterapia - masajes relajantes y descontracturantes*
+
